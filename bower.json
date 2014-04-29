@@ -1,6 +1,7 @@
 {
   "name": "redirect-tree",
-  "version": "0.0.0",
+  "description": "Web application for visualizing redirects of given sites.",
+  "version": "0.0.1",
   "dependencies": {
     "angular": ">=1.2.*",
     "json3": "~3.2.6",
@@ -14,5 +15,5 @@
     "angular-mocks": ">=1.2.*",
     "angular-scenario": ">=1.2.*"
   },
-  "testPath": "test/client/spec"  
+  "testPath": "test/client/spec"
 }
