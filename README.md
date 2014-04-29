@@ -14,7 +14,7 @@ Setup
 git clone <repo url>
 cd /path/to/repo
 
-# Install dependencies, database structure and upload folders
+# Install dependencies
 npm install
 
 # Client-side dependencies
