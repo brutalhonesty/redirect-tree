@@ -17,7 +17,7 @@ cd /path/to/repo
 # Install dependencies, database structure and upload folders
 npm install
 
-# Dependency resolution: http://i.imgur.com/BH9Fas6.png
+# Client-side dependencies
 bower install
 
 # Development
