@@ -1,7 +1,7 @@
 {
   "name": "redirect-tree",
   "description": "Web application for visualizing redirects of given sites.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "dependencies": {
     "express": "~4.0.0",
     "morgan": "~1.0.0",
