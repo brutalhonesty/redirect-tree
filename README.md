@@ -9,8 +9,6 @@ Version
 
 Setup
 -----
-Installation
-------------
 
 ```bash
 git clone <repo url>
