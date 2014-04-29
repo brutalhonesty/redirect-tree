@@ -39,3 +39,8 @@ PORT=9000 forever start server.js
 TODO
 ----
 Check out the markdown TODO [list](TODO.md)
+
+License
+-------
+
+[MIT](https://tldrlegal.com/license/mit-license)
